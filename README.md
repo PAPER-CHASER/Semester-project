@@ -3,21 +3,21 @@
 
 # Exam Processor
 
-This Java application mimics the examination processing system used by a university department. In accordance with the Strathmore University grading system, it records student information, subject scores, calculates grades, and creates report cards.
+This Java application mimics the examination processing system used by a university department. In accordance with the Strathmore University grading system, it records student information, individual unit scores, calculates overall grades, and creates report cards.
 
 ---
 
 ##  Features
 
-- Collects details for **10 students**
-- Allows score entry for **5 subjects**:
+- Allow entry and collection of details for 10 students
+- Allow score entry for 5 subjects:
   - Entrepreneurship
   - Advanced Database Systems
   - Computer Networks
   - Probability and Statistics
   - Object Oriented Programming
-- Calculates **average score** and assigns a **grade**
-- Generates a **report card** for each student:
+- It alculates the average score and assigns a grade
+- It generates a report card for each student:
   - Name and ID Number
   - Subject scores
   - Average score
@@ -27,7 +27,7 @@ This Java application mimics the examination processing system used by a univers
 
 ---
 
-##  Grading System (Default)
+# Grading System (Default)
 
 | Average Score | Grade | Recommendation |
 | ------------- | ----- | -------------- |
@@ -39,9 +39,7 @@ This Java application mimics the examination processing system used by a univers
 
 >
 
----
-
-##
+-----------------------
 
 ### Running the Program
 
