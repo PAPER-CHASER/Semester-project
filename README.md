@@ -21,7 +21,8 @@ This Java application mimics the examination processing system used by a univers
   - Name and ID Number
   - Subject scores
   - Average score
-  - Grade and recommendation
+  - Grade
+  - Recommendation
   - Date viewed
 
 ---
